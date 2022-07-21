@@ -75,9 +75,8 @@
   background-color: white;
   }
 .exercise-seven::before {
-  content: url('smiley.gif');
+  content: url('img/smiley.gif');
   }
 .exercise-seven::after {
-  content: url('smiley.gif');
+  content: url('img/smiley.gif');
   }
-  
